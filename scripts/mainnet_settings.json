@@ -1,0 +1,56 @@
+{
+  "setter": "",
+  "stablecoin": "0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8",
+  "tokens": [
+    {
+      "name": "COMP",
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "cap": ""
+    },
+    {
+      "name": "MKR",
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "cap": ""
+    },
+    {
+      "name": "LEND",
+      "address": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
+      "cap": ""
+    },
+    {
+      "name": "SNX",
+      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "cap": ""
+    },
+    {
+      "name": "KNC",
+      "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+      "cap": ""
+    },
+    {
+      "name": "REN",
+      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+      "cap": ""
+    },
+    {
+      "name": "YFI",
+      "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "cap": ""
+    },
+    {
+      "name": "LINK",
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "cap": ""
+    },
+    {
+      "name": "BAND",
+      "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+      "cap": ""
+    },
+    {
+      "name": "WETH",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "cap": ""
+    }
+  ]
+}
