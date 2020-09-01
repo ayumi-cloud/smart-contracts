@@ -77,3 +77,19 @@ Much of this codebase is modified from existing works, including:
 [YEarn](https://yearn.finance/) - Initial fair distribution implementation
 
 [YAM](https://yam.finance/) - Design inspiration
+
+## Mainnet Contract Addresses
+
+Boost Token: `0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78`
+
+Pool Addresses\
+AAVE: `0x383F3Ba9B39011f658e55a4c24c648851A4A8b60`\
+BAND: `0x3080869CF796d944cB4fb3C47D7084f8E8D3d22a`\
+COMP: `0x39CD2Fc7BAc954ABc3C1b6dA1CD467fA44f4f3BD`\
+KNC: `0x90dfbaDDf8f213185004bB200eDbB554E1F13D52`\
+LINK: `0x57fbd512a440CCE6832c62fD63c54A0A9f545F8a`\
+MKR: `0x40aFeF1b846D0a4EEf601Cf2B2117468eF63643C`\
+REN: `0x1dfF57d28C30F094235f0244939194B1223e66e1`\
+SNX: `0xf8Cb70658F7eC2bdC51d65323300b4cd0B5c6301`\
+SUSHI: `0xC7491fcDfc8af10d5a8Bc9C13b60B85209C0dc59`\
+YFI: `0x3EE27441449B2DfC705E3C237FFd75826870120A`
